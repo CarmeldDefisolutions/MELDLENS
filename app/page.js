@@ -150,7 +150,7 @@ export default function Home() {
 			<footer className="text-center mt-5 ">
 				<p className={styles.fontS}>
 					MLENS is a comprehensive analytics tool for the MELD DeFi ecosystem. It allows users to track wallets,
-					monitor token balances, and view transaction histories, including whale activity. By holding 1,000 MLENS
+					monitor token balances, and view transaction histories, including whale activity. By holding 100,000 MLENS
 					tokens, users can stake and receive exclusive NFTs that unlock full access to the application’s features,
 					enhancing the overall user experience. If you want to sponsor and send your tokens, reach out to us on telegram.
 				</p>
